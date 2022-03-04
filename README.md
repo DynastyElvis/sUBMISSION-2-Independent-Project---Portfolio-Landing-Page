@@ -47,7 +47,8 @@ Web browser
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
+
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w
 
@@ -57,7 +58,7 @@ https://www.w3schools.com/html/
 
 https://materializecss.com/
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
 
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
