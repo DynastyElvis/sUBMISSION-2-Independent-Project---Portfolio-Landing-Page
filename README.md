@@ -17,6 +17,9 @@ KIPKEMOI RONO ELVIS
 *[Reference](#Reference)
 
 
+*[Licence](#Licence)
+
+
 *[Authors Info](#Authors-Info)
 
 
@@ -69,6 +72,10 @@ https://www.w3schools.com/html/
 https://materializecss.com/
 
 [Go Back to the top](#MY-PORTFOLIO)
+
+## Licence
+MIT Licence
+2022
 
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
