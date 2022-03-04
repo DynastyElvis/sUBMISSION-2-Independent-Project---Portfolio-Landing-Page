@@ -20,17 +20,19 @@ This document will detail about myself, background information, skills, experien
 
 LIVE LINK >> https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
+
 ## Installation
 
 To access the site, open your browser and put in the link URL.
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
 ## Requirements
 
 Web browser
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
+
 ## Installation Requirements
 
 * Either a computer, phone,tablet or an Ipad
@@ -65,5 +67,8 @@ LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa354820
 kipkemoi.rono@student.moringaschool.com
 
 kipkemoilvs@gmil.com
+
+[Go Back to the top](#MY-PORTFOLIO)
+
 
 [Go Back to the top](#MY-PORTFOLIO)
