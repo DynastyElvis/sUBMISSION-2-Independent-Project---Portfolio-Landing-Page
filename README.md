@@ -63,9 +63,7 @@ https://materializecss.com/
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
 
 kipkemoi.rono@student.moringaschool.com
-[Go to Real Cool Heading section](#real-cool-heading)
-
 
 kipkemoilvs@gmil.com
 
-[Go Back to the top]
+[Go Back to the top](#MY PORTFOLIO)
