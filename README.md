@@ -41,7 +41,8 @@ Web browser
 
 * Updated version of your browser
 
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
+
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
