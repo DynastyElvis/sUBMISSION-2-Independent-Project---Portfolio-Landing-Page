@@ -13,10 +13,8 @@ KIPKEMOI RONO ELVIS
 *Authors Info
 *Description
 
-[Go to Real Cool Heading section](#real-cool-heading)
 
-
-[Go Back to the top]
+[Go Back to the top](#MY-PORTFOLIO)
 ## Description
 This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
 
