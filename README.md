@@ -18,6 +18,7 @@ KIPKEMOI RONO ELVIS
 This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
 
 LIVE LINK >> https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/
+
 [Go Back to the top]
 ## Installation
 
@@ -45,9 +46,11 @@ Web browser
 
 [Go Back to the top]
 ## Reference
-Schoolingcode.com
+https://www.youtube.com/watch?v=D-h8L5hgW-w
+
 https://moringaschool.instructure.com/ 
-Materialize CSS
+
+
 https://www.w3schools.com/html/
 
 
