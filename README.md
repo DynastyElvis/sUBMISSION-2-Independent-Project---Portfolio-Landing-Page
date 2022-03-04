@@ -5,18 +5,19 @@ KIPKEMOI RONO ELVIS
 
 ## Table of Contents
 
-*Description
+*[Description](#Description)
 
-*Installation Requirement
 
-*Technology Used
+*[Installation Requirement](#Installation-Requirement)
+
+
+*[Technology Used](#Technology-Used)
+
 
 *[Reference](#Reference)
 
 
-*Authors Info
-
-*Description
+*[Authors Info](#Authors Info)
 
 
 [Go Back to the top](#MY-PORTFOLIO)
