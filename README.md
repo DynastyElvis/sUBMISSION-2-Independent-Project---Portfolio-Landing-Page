@@ -6,11 +6,17 @@ KIPKEMOI RONO ELVIS
 ## Table of Contents
 
 *Description
+
 *Installation Requirement
+
 *Technology Used
+
 *Reference
+
 *Licence
+
 *Authors Info
+
 *Description
 
 
