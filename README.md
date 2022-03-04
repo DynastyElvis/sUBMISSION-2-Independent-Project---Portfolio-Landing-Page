@@ -11,9 +11,7 @@ KIPKEMOI RONO ELVIS
 
 *Technology Used
 
-*Reference
-
-[*Licence](#Reference)
+[*Reference](#Reference)
 
 
 *Authors Info
