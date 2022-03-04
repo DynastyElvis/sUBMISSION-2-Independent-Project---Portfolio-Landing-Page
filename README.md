@@ -66,9 +66,7 @@ LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa354820
 
 kipkemoi.rono@student.moringaschool.com
 
-kipkemoilvs@gmil.com
+kipkemoilvs@gmail.com
 
 [Go Back to the top](#MY-PORTFOLIO)
 
-
-[Go Back to the top](#MY-PORTFOLIO)
