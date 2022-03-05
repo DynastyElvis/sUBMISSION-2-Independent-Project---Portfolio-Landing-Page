@@ -74,12 +74,8 @@ https://materializecss.com/
 [Go Back to the top](#MY-PORTFOLIO)
 
 ## Licence
-[![[MIT LICENCE](https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)]
+[![MIT LICENCE](https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)]
 
-
-[MIT Licence](#https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
-
-https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE
 
 2022
 
