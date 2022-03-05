@@ -30,7 +30,8 @@ KIPKEMOI RONO ELVIS
 ## Description
 This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
 
-LIVE LINK >> https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/
+[LIVE LINK >>](https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/)
+
 
 [Go Back to the top](#MY-PORTFOLIO)
 
