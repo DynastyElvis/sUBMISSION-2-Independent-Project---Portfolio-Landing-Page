@@ -75,7 +75,7 @@ https://materializecss.com/
 
 ## Licence
 
-[MIT LICENCE] (https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
+[MIT LICENCE](#https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
 
 2022
 
